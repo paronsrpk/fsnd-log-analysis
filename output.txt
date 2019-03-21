@@ -1,10 +1,12 @@
 Articles with the most page views:
->>Candidate is jerk, alleges rival - 338647
->>Bears love berries, alleges bear - 253801
->>Bad things gone, say good people - 170098
+>>Candidate is jerk, alleges rival - 338647 views
+>>Bears love berries, alleges bear - 253801 views
+>>Bad things gone, say good people - 170098 views
+
 Authors with the most page views:
->>Ursula La Multa - 507594.0
->>Rudolf von Treppenwitz - 423457.0
->>Anonymous Contributor - 170098.0
+>>Ursula La Multa - 507594.0 views
+>>Rudolf von Treppenwitz - 423457.0 views
+>>Anonymous Contributor - 170098.0 views
+
 Dates with errors more than 1%:
-2016-07-17 00:00:00+00:00
+Jul 17,2016 2.26%

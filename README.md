@@ -11,7 +11,9 @@ To run the program, please follow the following steps.
 2) Install Vagrant which will be used to install and manage the VM.
 3) CD into Vagrant subdirectory of this program
 4) Start the virtual machine and log in
-5) For the First time, you need to load the data by runnig the command "psql -d news -f newsdata.sql"
+5) Download the news database [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip).After download, unzip this file. The file inside is called newsdata.sql. Put this file into the vagrant directory.
+6) For the First time, you need to load the data by runnig the command "psql -d news -f newsdata.sql"
+7) To rund the code, run the command 'python newsdb.py'
 
 
 ## Installation
@@ -50,8 +52,4 @@ When `vagrant up` is finished running, you will get your shell prompt back. At t
 ![linux-vm-login](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/58488962_screen-shot-2016-12-07-at-14.12.29/screen-shot-2016-12-07-at-14.12.29.png)
 
 _Logging into the Linux VM with `vagrant ssh`._
-
-### Logged in
-
-If you are now looking at a shell prompt that starts with the word `vagrant` (as in the above screenshot), congratulations — you've gotten logged into your Linux VM.
 
